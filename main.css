@@ -2,6 +2,7 @@ body {
     height: 100%;
     margin: auto;
     background-color:#000;
+	 -webkit-font-smoothing: subpixel-antialiased;
 
 }
 
