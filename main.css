@@ -338,6 +338,8 @@ margin-left: auto;
 margin-right: auto;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 letter-spacing: 2px;
+		-webkit-font-smoothing: subpixel-antialiased;
+-webkit-text-stroke:1px transparent;
 }
 
 h4 {
