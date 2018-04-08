@@ -330,7 +330,7 @@ width: 670px;
 color: #00ffff;
 line-height: 28px;
 text-align: left;
-font-weight: lighter;
+font-weight: 300px;
 margin-left: auto;
 margin-right: auto;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -343,7 +343,7 @@ width: 670px;
 color: #ff1b60;
 line-height: 28px;
 text-align: left;
-font-weight: lighter;
+font-weight: 300px;
 margin-left: auto;
 margin-right: auto;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -356,7 +356,7 @@ width: 670px;
 color: #ff5d00;
 line-height: 28px;
 text-align: left;
-font-weight: lighter;
+font-weight: 300px;
 margin-left: auto;
 margin-right: auto;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -369,7 +369,7 @@ width: 670px;
 color: #f800ff;
 line-height: 28px;
 text-align: left;
-font-weight: lighter;
+font-weight: 300px;
 margin-left: auto;
 margin-right: auto;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -382,7 +382,7 @@ width: 670px;
 color: #00ffb2;
 line-height: 28px;
 text-align: left;
-font-weight: lighter;
+font-weight: 300px;
 margin-left: auto;
 margin-right: auto;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -423,7 +423,7 @@ p3 {
   color: #fff;
   line-height: 27px;
   text-align: left;
-  font-weight: 100;
+  font-weight: 300px;
   margin-left: auto;
   margin-right: auto;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -437,7 +437,7 @@ p4 {
   color: #fff;
   line-height: 27px;
   text-align: center;
-  font-weight: 100;
+  font-weight: 300px;
   margin-left: auto;
   margin-right: auto;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -477,7 +477,7 @@ p4 {
   line-height: 24px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #fefe00;
-  font-weight: lighter;
+  font-weight: 300px;
   letter-spacing: 2px;
   padding: 40px;
 }
@@ -490,7 +490,7 @@ p4 {
   line-height: 24px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #0bff01;
-  font-weight: lighter;
+  font-weight: 300px;
   letter-spacing: 2px;
   padding: 40px;
 }
@@ -503,7 +503,7 @@ p4 {
   line-height: 24px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #00ffff;
-  font-weight: lighter;
+  font-weight: 300px;
   letter-spacing: 2px;
   padding: 40px;
 }
@@ -549,7 +549,7 @@ iframe {
     line-height: 20px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #fefe00;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 2px;
     padding-right: 10px;
     padding-bottom: 100px;
@@ -582,7 +582,7 @@ iframe {
     margin: 0 !important;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 2px;
     padding-top: -10px;
 
@@ -626,7 +626,7 @@ iframe {
     margin: 0 !important;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 2px;
     padding-top: -10px;
 
@@ -670,7 +670,7 @@ iframe {
     margin: 0 !important;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 2px;
     padding-top: -10px;
 
@@ -714,7 +714,7 @@ iframe {
     margin: 0 !important;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 2px;
     padding-top: -10px;
 
@@ -758,7 +758,7 @@ iframe {
     margin: 0 !important;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 2px;
     padding-top: -10px;
 
@@ -802,7 +802,7 @@ iframe {
     margin: 0 !important;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 2px;
     padding-top: -10px;
 
@@ -846,7 +846,7 @@ iframe {
     margin: 0 !important;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 2px;
     padding-top: -10px;
 
@@ -890,7 +890,7 @@ iframe {
     margin: 0 !important;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 2px;
     padding-top: -10px;
 
@@ -1125,7 +1125,7 @@ iframe {
     font-size: 12px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #fefe00;
-    font-weight: lighter;
+    font-weight: 300px;
     padding-bottom: 20px;
     letter-spacing: 1px;
 }
@@ -1138,7 +1138,7 @@ iframe {
     text-align: center;
     font-size: 12px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 1px;
     padding-top: 10px;
     padding-bottom: 20px;
@@ -1152,7 +1152,7 @@ iframe {
     text-align: center;
     font-size: 12px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 1px;
     padding-top: 50px;
     padding-bottom: 20px;
@@ -1167,7 +1167,7 @@ iframe {
     text-align: center;
     font-size: 12px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 1px;
     padding-top: 50px;
     padding-bottom: 20px;
@@ -1181,7 +1181,7 @@ iframe {
     text-align: center;
     font-size: 12px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 1px;
     padding-top: 50px;
     padding-bottom: 20px;
@@ -1195,7 +1195,7 @@ iframe {
     text-align: center;
     font-size: 12px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 1px;
     padding-top: 50px;
     padding-bottom: 20px;
@@ -1209,7 +1209,7 @@ iframe {
     text-align: center;
     font-size: 12px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 1px;
     padding-top: 50px;
     padding-bottom: 20px;
@@ -1223,7 +1223,7 @@ iframe {
     text-align: center;
     font-size: 12px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: lighter;
+    font-weight: 300px;
     letter-spacing: 1px;
     padding-top: 50px;
     padding-bottom: 20px;
