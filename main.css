@@ -3,6 +3,7 @@ body {
     margin: auto;
     background-color:#000;
 	-webkit-font-smoothing: subpixel-antialiased;
+-webkit-text-stroke:1px transparent;}
 
 }
 
