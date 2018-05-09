@@ -59,9 +59,8 @@
   z-index: 1;
 }
 .layer--initial .slogan-wrap .slogan__elem {
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #0bff01;
+  -webkit-text-fill-color: 0bff01;
+
 }
 .layer--initial .slogan-wrap .slogan__elem:first-of-type {
   position: relative;
