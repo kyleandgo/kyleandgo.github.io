@@ -60,7 +60,6 @@
 }
 .layer--initial .slogan-wrap .slogan__elem {
   -webkit-text-fill-color: 0bff01;
-  -webkit-text-fill-width: 1px;
 
 
 }
@@ -92,7 +91,6 @@
 }
 .layer--initial .slogan-load-wrap .slogan__elem {
   -webkit-text-fill-color: #fefe00;
--webkit-text-fill-width: 1px;
 
 }
 
