@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Trajan Pro; src: url('Trajan Pro Regular.ttf');
+}
+
 /**GLOBALS - FONTS and COLORS**/
 @import url(https://fonts.googleapis.com/css?family=Cinzel:700|Crimson+Text|Libre+Baskerville);
 /**MIXINS**/
