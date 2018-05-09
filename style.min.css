@@ -60,6 +60,8 @@
 }
 .layer--initial .slogan-wrap .slogan__elem {
   -webkit-text-fill-color: 0bff01;
+  -webkit-text-fill-width: 1px;
+
 
 }
 .layer--initial .slogan-wrap .slogan__elem:first-of-type {
@@ -89,9 +91,9 @@
   top: -10px;
 }
 .layer--initial .slogan-load-wrap .slogan__elem {
-  -webkit-text-fill-color: transparent;
--webkit-text-stroke-width: 1px;
--webkit-text-stroke-color: #fefe00;
+  -webkit-text-fill-color: #fefe00;
+-webkit-text-fill-width: 1px;
+
 }
 
 
